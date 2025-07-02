@@ -43,17 +43,8 @@ You can view the full 3D model on Onshape here:
 
 | File Name         | Description                         |
 |------------------|-------------------------------------|
-| `arm_Image.png`   | Rendered preview of arm movement    |
 | `3D_arm_side.stl` | Side view of the 3D printed model   |
 | `3D_arm_view.stl` | Full angled view for 3D printing    |
-
----
-
-## ✅ Future Goals
-
-- Add motors/servos for full automation  
-- Simulate motion using Arduino  
-- Combine with sensors for real-world interaction  
 
 ---
 
